@@ -1,6 +1,9 @@
 # Faster-Blogger-Template
 Faster is a simple yet powerfully handcrafted blogger template. It is optimized for fast loading while maintaining the antithetical look for the template. It is a minimal theme which provide most of the parts with the minimum context. It is simple and good for magazines and blogs.
 
+
+<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+
 <h2>Documentation</h2>
 <div class="entry-content">
 
