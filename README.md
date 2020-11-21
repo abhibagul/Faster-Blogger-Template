@@ -2,7 +2,7 @@
 Faster is a simple yet powerfully handcrafted blogger template. It is optimized for fast loading while maintaining the antithetical look for the template. It is a minimal theme which provide most of the parts with the minimum context. It is simple and good for magazines and blogs.
 
 
-<h3>Customized blogger Template @ $25 : <a href="https://www.fiverr.com/s2/ceb7759ae8" target="_blank">https://www.fiverr.com/s2/ceb7759ae8</a></h3>
+  <span class='fltdon' style='float:left'>	Get us going by :</span> 	<a href="https://www.paypal.com/paypalme/blossomtheme" target="_blank"><img alt='Donate with PayPal button' border='0' name='submit' src='https://www.paypalobjects.com/en_GB/i/btn/btn_donateCC_LG.gif' title='PayPal - The safer, easier way to pay online!'/></a>
 
 <h2>Documentation</h2>
 <div class="entry-content">
